@@ -1,0 +1,8 @@
+[config]
+
+name="GodotPocketAD"
+binary_type="local"
+binary="GodotPocketAD.1.0.0.release.aar"
+
+[dependencies]
+remote=["com.squareup.okhttp3:okhttp:4.9.2","com.google.code.gson:gson:2.8.8","androidx.legacy:legacy-support-core-ui:1.0.0"]
